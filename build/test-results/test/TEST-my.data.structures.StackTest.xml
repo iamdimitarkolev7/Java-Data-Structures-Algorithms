@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="my.data.structures.StackTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-05T10:54:56" hostname="DESKTOP-R1KAM7P" time="0.027">
+  <properties/>
+  <testcase name="IsFull method test" classname="my.data.structures.StackTest" time="0.017"/>
+  <testcase name="Pop method test" classname="my.data.structures.StackTest" time="0.002"/>
+  <testcase name="Peek method test" classname="my.data.structures.StackTest" time="0.0"/>
+  <testcase name="Push method test" classname="my.data.structures.StackTest" time="0.001"/>
+  <testcase name="Size method test" classname="my.data.structures.StackTest" time="0.0"/>
+  <testcase name="IsEmpty method test" classname="my.data.structures.StackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
