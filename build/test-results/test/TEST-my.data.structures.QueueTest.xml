@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="my.data.structures.QueueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-05T14:33:42" hostname="DESKTOP-R1KAM7P" time="0.027">
+  <properties/>
+  <testcase name="Remove method test" classname="my.data.structures.QueueTest" time="0.02"/>
+  <testcase name="Add method test" classname="my.data.structures.QueueTest" time="0.001"/>
+  <testcase name="Peek method test" classname="my.data.structures.QueueTest" time="0.0"/>
+  <testcase name="Poll method test" classname="my.data.structures.QueueTest" time="0.002"/>
+  <testcase name="Size method test" classname="my.data.structures.QueueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
